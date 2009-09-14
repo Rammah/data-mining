@@ -1,0 +1,23 @@
+ol.toc {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+ol.toc li a {
+  font-size: 2em;
+  text-decoration: none;
+}
+
+p.introduction {
+  width: 400px;
+}
+
+pre.code {
+  padding: 20px;
+  background-color: #F0FFF0;
+}
+
+div.container {
+  width: 700px;
+}
+
