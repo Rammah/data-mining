@@ -1,0 +1,8 @@
+Rammah Abohtyr,
+project 2.2
+2- in this project for classification my aim is to classifay some data set "attributes" using different classifiers and compar the results including in correctly and incorrectly classifired 
+and the classification erroe and the margin curve:
+I have dobe the following:
+   
+Experiment with three Bayesian classifiers (AODE, BayesNet,NaiveBayes) and some  visualizations and explainations of my results.
+Experiment with MultilayerPerceptron, VotedPerceptron, and Winnow (all ANN-based approaches) and some  visualizations and explainations my results.
