@@ -1,6 +1,0 @@
-Rammah Abohtyr,
-
-in this project 2.2 for classification my aim is to classifay some data set "attributes" using different classifiers and compar the results including in correctly and incorrectly classifired   
-and the classification error and copare between them.
-I used new classifiers in including three Bayesian classifiers and three ANN classifiers and i summrized the results with figures of the classification errors and vusulize the margin curve
-
